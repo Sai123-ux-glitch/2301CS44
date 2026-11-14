@@ -110,4 +110,4 @@ transactions: `proof = [right: L3, left: N01, right: L4]`.
 
 ## Video demo
 
-YouTube (unlisted): _to be added_
+YouTube : https://youtu.be/a_UsJhZ8Pj0

@@ -115,4 +115,4 @@ byte-identical, and that a reloaded ledger still rejects replays and double spen
 
 ## Video demo
 
-YouTube (unlisted): _to be added_
+YouTube : https://youtu.be/bY88RekFdyY

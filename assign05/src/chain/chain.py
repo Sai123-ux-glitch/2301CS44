@@ -212,6 +212,7 @@ class ChainManager:
                 res.connected += r2.connected
                 res.returned_txs += r2.returned_txs
                 res.status = "reorg" if res.disconnected else "connected"
+                res.reason = r2.reason
         return res
 
     def _branch_to(self, tip_hash: bytes) -> tuple[int, list[bytes]]:

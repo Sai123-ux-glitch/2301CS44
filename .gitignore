@@ -13,3 +13,7 @@ broadcast/*/31337/run-*.json
 *.key
 *.priv
 *.dev-key.json
+node_modules/
+assign07/out/
+assign07/cache/
+assign07/broadcast/

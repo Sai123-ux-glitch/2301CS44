@@ -91,4 +91,4 @@ pytest -q                                                         # 42 tests
 
 ## Video demo
 
-YouTube (unlisted): _to be added_
+YouTube :https://youtu.be/Gn3RmBvVTHw

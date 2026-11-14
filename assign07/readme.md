@@ -96,4 +96,4 @@ Terminal states allow no further state-changing transitions. Payees collect cred
 
 ## Video demo
 
-YouTube (unlisted): _to be added_
+YouTube : https://youtu.be/2HgRAiB-vAU
